@@ -99,16 +99,8 @@ Example:
   --save
 ```
 
-## What to submit
-
-- code: this folder and scripts
-- trained model file: `best.pt`
-- demo screenshots or short video from prediction results
-- short report: update `assignment_artifacts/report.md` with your final metrics and screenshots
 
 ## Optional FastAPI Wrapper
-
-If you want to go beyond the base assignment, there is also an optional FastAPI wrapper around the trained model. This is a good way to present the project as a lightweight inference service.
 
 FastAPI files:
 
