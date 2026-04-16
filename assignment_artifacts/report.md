@@ -150,9 +150,7 @@ Update this section using the values automatically exported by the notebook into
 - mAP@50: `0.4625`
 - mAP@50:95: `0.2572`
 
-### Recommended Interpretation for Discussion
-
-When presenting the results, discuss them through the following lens:
+### Interpretation for Discussion
 
 - strong performance on `car` is expected because it has the highest object count
 - `traffic_light` may be more difficult due to smaller object size and lower representation
@@ -177,20 +175,7 @@ Including this layer demonstrates that the project was designed with usability i
 
 ## 8. Qualitative Results
 
-Insert 2 to 3 prediction screenshots in this section from the Colab output folder.
-
-For each example, briefly explain:
-
-- what objects were detected correctly
-- whether confidence appears reliable
-- where the model struggled
-- whether small or partially occluded objects were missed
-
-Suggested caption style:
-
-`Figure 1. Example of successful multi-object detection showing cars, pedestrians, and traffic lights in a dense street scene.`
-
-`Figure 2. Example of a challenging scene illustrating missed small objects and partial occlusion effects.`
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/b9c65888-44f3-47ef-9e29-d68902662321" />
 
 ## 9. Key Engineering Decisions
 
