@@ -145,10 +145,10 @@ The model was evaluated on unseen test images after training. The following metr
 
 Update this section using the values automatically exported by the notebook into `metrics_summary.txt`.
 
-- Precision: `_____`
-- Recall: `_____`
-- mAP@50: `_____`
-- mAP@50:95: `_____`
+- Precision: `0.5892`
+- Recall: `0.4463`
+- mAP@50: `0.4625`
+- mAP@50:95: `0.2572`
 
 ### Recommended Interpretation for Discussion
 
